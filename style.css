@@ -28,7 +28,7 @@
     padding: 1em;
     overflow: hidden;
     color:#DCE35B;
-    flex-wrap: wrap;
+    flex-wrap: wrap-reverse;
   }
   
   @media only screen and (min-width: 1000px) {
